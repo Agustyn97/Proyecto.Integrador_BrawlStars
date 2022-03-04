@@ -20,13 +20,12 @@ header {
     flex-direction: column;
 }
 .imgnav {
-    height: 100px;
+    height: 80px;
 }
 .ImgLogoNav {
     display: flex;
     justify-content:space-between;
     align-items: center;
-    padding-right: 170px;
 }
 .Menu {
     background-color: rgb(53, 47, 47);
@@ -53,6 +52,7 @@ header {
     border-radius: 50%;
     width: 70px;
     height: 70px;
+    margin-right: 100px;
 } 
 .iconologin{
     font-size: 1.5rem;
@@ -63,8 +63,14 @@ main {
     background-color: #4d4d4d;
     color: gold;
 }
+.ImgPrincipal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .banner {
-    width: 100%;
+    width: 90%;
+
 }
 .frasemot {
     display: flex;
@@ -76,7 +82,7 @@ main {
     padding: 40px 80px;
 }
 .Logofrase {
-    height: 250px;
+    width: 80%;
 }
 .frasemotiva {
     font-size: 3rem;
@@ -86,13 +92,14 @@ main {
 .beastpicks {
     text-align: center;
     padding-bottom: 50px;
-    font-size: 40px;
+    font-size: 3rem;
 }
 .titulosmapas {
     display: flex;
     justify-content: flex-start;
     align-items: center;
     font-size: 27px;
+    padding-left: 20px;
 }
 .imggenerales {
     height: 50px;
@@ -203,21 +210,18 @@ footer {
     margin-bottom: 15px;
 }
 
-/* Inicio de sesion */
 
-.btnlogin{
-    margin-top: 30px;
-    width: 40%;
-    text-align: center;
-    color: gold;
-    background-color: black;
-    
-}
-.contenedorbtnlogin{
-    display: flex;
-    justify-content: center;
-}
-.bodylogin {
-    background-color: #4d4d4d;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,0 +1,70 @@
+@media (max-width: 1023px) {
+
+}
+ 
+ 
+@media (max-width: 760px) {
+    *{
+        font-size: 0.95rem;
+    }
+    .welcome{
+        font-size: 1.4rem;
+        padding: 20px 0;
+    }
+    .imgnav {
+        height: 40px
+    }
+    .ImgLogoNav {
+        text-align: center;
+    }
+    .botonLI{
+        width: 50px;
+        height: 50px;
+        margin-right: 40px;
+        font-size: 0.75rem;
+    }
+    
+    .frasemotiva {
+        font-size: 1.7rem;
+        margin: 20px 0px;
+    }
+    .frasemot{
+        padding: 20px 30px 60px;
+    }
+    .beastpicks, .beastplayers2, .contacto{
+        font-size: 1.7rem;
+    }
+    .img70{
+        padding: 20px 0px;
+    }
+    .formulario{
+        width: 70%;
+        padding: 30px 10px;
+    }
+    .textoform, .textologin {
+        font-size: 1rem;
+    }
+    .btnform, .btnlogin{
+        width: 100%;
+    }
+    .botonera{
+        flex-direction: column;
+    }
+    .iconosfooter {
+        font-size: 30px;
+        margin: 10px; 
+    }
+    .h4footer {
+        font-size: 10px;
+    }
+    .thefooter {
+        display: flex;
+        flex-direction: column;
+        padding: 10px 0;
+    }
+    .pfooter {
+        font-size: 0.8rem;
+    }
+} 
+
+

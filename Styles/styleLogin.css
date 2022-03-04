@@ -1,3 +1,19 @@
 .botonLI{
     visibility: hidden;
 }
+
+.btnlogin{
+    margin-top: 30px;
+    width: 40%;
+    text-align: center;
+    color: gold;
+    background-color: black;
+    
+}
+.contenedorbtnlogin{
+    display: flex;
+    justify-content: center;
+}
+.bodylogin {
+    background-color: #4d4d4d;
+}
