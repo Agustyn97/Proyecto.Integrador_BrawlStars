@@ -65,6 +65,15 @@
     .pfooter {
         font-size: 0.8rem;
     }
+    .formulariologin {
+        padding: 0;  
+    }
+    .login {
+        font-size: 2rem;
+    }
+    .textologin {
+        font-size: 1rem;
+    }
 } 
 
 
